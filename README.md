@@ -42,7 +42,7 @@ A Python-based attendance system that uses deep learning for face recognition to
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/PallaviKumari45/face_recognition_attendance_system.git
+   git clone https://github.com/PallaviKumari45/faceRecognitionAttendanceSystem.git
    ```
 
 2. Create and activate a virtual environment (recommended):
